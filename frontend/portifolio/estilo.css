@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto|Titillium+Web&display=swap');
+
+body{
+    background-color:black;
+    font-size: 16px;
+    color: antiquewhite;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    z-index: 1;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
+div{
+    position: relative;
+    width: 450px;
+    background:rgb(61, 60, 60);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 100px;
+    border-left: 20px;
+    margin-bottom: 20px;
+}
+
+.seila{
+    position: relative;
+    width: 450px;
+    background:rgb(61, 60, 60);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 100px;
+    border-left: 20px;
+    margin-bottom: 20px;
+}
+ 
+.item1{
+    margin-left: 100px;
+    background: rgb(26, 26, 26);
+}
+
+.item2{
+    margin-left: 750px;
+    background: rgb(0, 0, 0);
+}
+
+.titulo{
+    color: chartreuse;
+}
